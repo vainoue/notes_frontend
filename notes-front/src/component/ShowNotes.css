@@ -1,0 +1,13 @@
+.table-01 {
+    border-collapse: collapse; /* Combina as bordas das células para criar uma borda sólida */
+    width: 100%; /* Defina a largura da tabela */
+  }
+  
+  .table-01 th, .table-01 td {
+    border: 1px solid #ddd; /* Adicione uma borda sólida com a cor #ddd (pode alterar a cor conforme necessário) */
+    padding: 8px; /* Adicione um espaçamento interno nas células */
+  }
+  
+  .table-01 th {
+    background-color: #f2f2f2; /* Defina uma cor de fundo para os cabeçalhos da tabela */
+  }
